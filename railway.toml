@@ -1,5 +1,0 @@
-[build]
-command = "npm run build"
-
-[deploy]
-start = "npx serve -s build"
